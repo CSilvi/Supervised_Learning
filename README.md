@@ -1,4 +1,4 @@
-### Diploma in Data Science and Machine Learning
+
 ## Supervised Learning Assignment (in spanish)
 
 Dataset from [Kaggle](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data). Classification task on an imbalance dataset where the objective is to predecit whether a customer will buy a travel insurance or not.
